@@ -1,0 +1,46 @@
+h2 {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 160px;
+    display: block;
+    margin: 0 auto;
+}
+
+P {
+    text-align: center;
+    color: red;
+}
+
+body {
+    background-image: url("https://thewallpaper.co//wp-content/uploads/2017/10/spooky-creepy-evil-backgrounds-hd-images-scary-horror-dark-personal-use-tablet-backgrounds-cool-images.jpg");
+}
+
+h1 {
+    color: white;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.Actor {
+    color: green;
+}
+
+.movie {
+    color: olive;
+}
+
+.Director {
+    color: lime;
+}
